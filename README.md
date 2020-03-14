@@ -1,5 +1,5 @@
 # Neural Network
-This project is a baseline to my senior project. It is a multi-perceptron neural network that can learn based on data that is fed through the algorithm. Using backpropigation, the algorithm tweaks different values, and normallizes the dataset with a sigmodial activation function.
+This project is a baseline to my senior project. It is a multi-perceptron neural network that can learn based on the data that is fed through the algorithm. Using backpropigation, the algorithm tweaks different values, and normallizes the dataset with a sigmodial activation function. (Talk about little johns car)
 ## Getting Started
 
 
