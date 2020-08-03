@@ -11,3 +11,4 @@ This class implements the neural network, and establishes a feed forward algorit
 ## Matrix.java
 
 This class contains all of the linear algebra required for the neural network. In the class, you can: scale a matrix, multiply two matrices, subtract two matrices, transpose a matrix, add to a matrix, and run the values of the matrix through the derivative of the sigmoid function. 
+
